@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MohitNetrakar96/justCode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MohitNetrakar96/justCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MohitNetrakar96/justCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/MohitNetrakar96/justCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MohitNetrakar96/justCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohitNetrakar96/justCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/MohitNetrakar96/justCode/tree/master/0560-subarray-sum-equals-k) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MohitNetrakar96/justCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MohitNetrakar96/justCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/MohitNetrakar96/justCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MohitNetrakar96/justCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohitNetrakar96/justCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MohitNetrakar96/justCode/tree/master/0146-lru-cache) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/MohitNetrakar96/justCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
