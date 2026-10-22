@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MohitNetrakar96/justCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/MohitNetrakar96/justCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MohitNetrakar96/justCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/MohitNetrakar96/justCode/tree/master/0146-lru-cache) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MohitNetrakar96/justCode/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/MohitNetrakar96/justCode/tree/master/0202-happy-number) |
 ## Sliding Window
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/MohitNetrakar96/justCode/tree/master/0056-merge-intervals) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MohitNetrakar96/justCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
