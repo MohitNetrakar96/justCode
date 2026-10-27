@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MohitNetrakar96/justCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MohitNetrakar96/justCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/MohitNetrakar96/justCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/MohitNetrakar96/justCode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/MohitNetrakar96/justCode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/MohitNetrakar96/justCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MohitNetrakar96/justCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohitNetrakar96/justCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/MohitNetrakar96/justCode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/MohitNetrakar96/justCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MohitNetrakar96/justCode/tree/master/0724-find-pivot-index) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MohitNetrakar96/justCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
