@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/MohitNetrakar96/justCode/tree/master/0724-find-pivot-index) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MohitNetrakar96/justCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/MohitNetrakar96/justCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/MohitNetrakar96/justCode/tree/master/3665-twisted-mirror-path-count) |
 ## Greedy
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MohitNetrakar96/justCode/tree/master/0074-search-a-2d-matrix) |
+| [3665-twisted-mirror-path-count](https://github.com/MohitNetrakar96/justCode/tree/master/3665-twisted-mirror-path-count) |
 ## Sorting
 |  |
 | ------- |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohitNetrakar96/justCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/MohitNetrakar96/justCode/tree/master/3665-twisted-mirror-path-count) |
 <!---LeetCode Topics End-->
