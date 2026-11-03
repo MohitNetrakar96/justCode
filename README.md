@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/MohitNetrakar96/justCode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/MohitNetrakar96/justCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MohitNetrakar96/justCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/MohitNetrakar96/justCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohitNetrakar96/justCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/MohitNetrakar96/justCode/tree/master/0283-move-zeroes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MohitNetrakar96/justCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MohitNetrakar96/justCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MohitNetrakar96/justCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/MohitNetrakar96/justCode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/MohitNetrakar96/justCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MohitNetrakar96/justCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/MohitNetrakar96/justCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/MohitNetrakar96/justCode/tree/master/0560-subarray-sum-equals-k) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/MohitNetrakar96/justCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/MohitNetrakar96/justCode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/MohitNetrakar96/justCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MohitNetrakar96/justCode/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MohitNetrakar96/justCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Quicksort
@@ -159,4 +162,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/MohitNetrakar96/justCode/tree/master/3665-twisted-mirror-path-count) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MohitNetrakar96/justCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MohitNetrakar96/justCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MohitNetrakar96/justCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
