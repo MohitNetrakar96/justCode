@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MohitNetrakar96/justCode/tree/master/0146-lru-cache) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/MohitNetrakar96/justCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohitNetrakar96/justCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/MohitNetrakar96/justCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohitNetrakar96/justCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/MohitNetrakar96/justCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,4 +177,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MohitNetrakar96/justCode/tree/master/0169-majority-element) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/MohitNetrakar96/justCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/MohitNetrakar96/justCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/MohitNetrakar96/justCode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
