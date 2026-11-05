@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MohitNetrakar96/justCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MohitNetrakar96/justCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MohitNetrakar96/justCode/tree/master/0724-find-pivot-index) |
+| [1046-last-stone-weight](https://github.com/MohitNetrakar96/justCode/tree/master/1046-last-stone-weight) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MohitNetrakar96/justCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/MohitNetrakar96/justCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/MohitNetrakar96/justCode/tree/master/3665-twisted-mirror-path-count) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MohitNetrakar96/justCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/MohitNetrakar96/justCode/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
