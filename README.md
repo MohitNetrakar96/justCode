@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MohitNetrakar96/justCode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/MohitNetrakar96/justCode/tree/master/0155-min-stack) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MohitNetrakar96/justCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MohitNetrakar96/justCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/MohitNetrakar96/justCode/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
