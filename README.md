@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MohitNetrakar96/justCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MohitNetrakar96/justCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/MohitNetrakar96/justCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/MohitNetrakar96/justCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/MohitNetrakar96/justCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MohitNetrakar96/justCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MohitNetrakar96/justCode/tree/master/0142-linked-list-cycle-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MohitNetrakar96/justCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MohitNetrakar96/justCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MohitNetrakar96/justCode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/MohitNetrakar96/justCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/MohitNetrakar96/justCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/MohitNetrakar96/justCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/MohitNetrakar96/justCode/tree/master/0066-plus-one) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MohitNetrakar96/justCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/MohitNetrakar96/justCode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/MohitNetrakar96/justCode/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MohitNetrakar96/justCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/MohitNetrakar96/justCode/tree/master/0042-trapping-rain-water) |
 | [3665-twisted-mirror-path-count](https://github.com/MohitNetrakar96/justCode/tree/master/3665-twisted-mirror-path-count) |
 ## Divide and Conquer
 |  |
@@ -217,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MohitNetrakar96/justCode/tree/master/0005-longest-palindromic-substring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MohitNetrakar96/justCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
