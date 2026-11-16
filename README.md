@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/MohitNetrakar96/justCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/MohitNetrakar96/justCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/MohitNetrakar96/justCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/MohitNetrakar96/justCode/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MohitNetrakar96/justCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/MohitNetrakar96/justCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohitNetrakar96/justCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/MohitNetrakar96/justCode/tree/master/0078-subsets) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/MohitNetrakar96/justCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Stack
 |  |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MohitNetrakar96/justCode/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MohitNetrakar96/justCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
