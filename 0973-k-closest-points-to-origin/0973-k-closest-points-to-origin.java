@@ -6,7 +6,7 @@ class Solution {
 
         for (int[] p : points) {
             pq.offer(p);
-            if (pq.size() > k) pq.poll(); // evict the farthest
+            if (pq.size() > k) pq.poll(); 
         }
 
         int[][] res = new int[k][];
