@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MohitNetrakar96/justCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MohitNetrakar96/justCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MohitNetrakar96/justCode/tree/master/0724-find-pivot-index) |
+| [0973-k-closest-points-to-origin](https://github.com/MohitNetrakar96/justCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/MohitNetrakar96/justCode/tree/master/1046-last-stone-weight) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MohitNetrakar96/justCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/MohitNetrakar96/justCode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MohitNetrakar96/justCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/MohitNetrakar96/justCode/tree/master/0202-happy-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MohitNetrakar96/justCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/MohitNetrakar96/justCode/tree/master/0973-k-closest-points-to-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MohitNetrakar96/justCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MohitNetrakar96/justCode/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MohitNetrakar96/justCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/MohitNetrakar96/justCode/tree/master/0973-k-closest-points-to-origin) |
 ## Quicksort
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MohitNetrakar96/justCode/tree/master/0169-majority-element) |
+| [0973-k-closest-points-to-origin](https://github.com/MohitNetrakar96/justCode/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MohitNetrakar96/justCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/MohitNetrakar96/justCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/MohitNetrakar96/justCode/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
@@ -231,4 +236,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MohitNetrakar96/justCode/tree/master/0078-subsets) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/MohitNetrakar96/justCode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/MohitNetrakar96/justCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/MohitNetrakar96/justCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
