@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/MohitNetrakar96/justCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/MohitNetrakar96/justCode/tree/master/1046-last-stone-weight) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MohitNetrakar96/justCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/MohitNetrakar96/justCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/MohitNetrakar96/justCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/MohitNetrakar96/justCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/MohitNetrakar96/justCode/tree/master/3665-twisted-mirror-path-count) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MohitNetrakar96/justCode/tree/master/0011-container-with-most-water) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/MohitNetrakar96/justCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MohitNetrakar96/justCode/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MohitNetrakar96/justCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/MohitNetrakar96/justCode/tree/master/0973-k-closest-points-to-origin) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/MohitNetrakar96/justCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Quicksort
 |  |
 | ------- |
