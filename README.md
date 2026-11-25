@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MohitNetrakar96/justCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/MohitNetrakar96/justCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MohitNetrakar96/justCode/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/MohitNetrakar96/justCode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/MohitNetrakar96/justCode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MohitNetrakar96/justCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohitNetrakar96/justCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/MohitNetrakar96/justCode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/MohitNetrakar96/justCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MohitNetrakar96/justCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MohitNetrakar96/justCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MohitNetrakar96/justCode/tree/master/0724-find-pivot-index) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MohitNetrakar96/justCode/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/MohitNetrakar96/justCode/tree/master/0455-assign-cookies) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/MohitNetrakar96/justCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Hash Table
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/MohitNetrakar96/justCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/MohitNetrakar96/justCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MohitNetrakar96/justCode/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/MohitNetrakar96/justCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MohitNetrakar96/justCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/MohitNetrakar96/justCode/tree/master/0973-k-closest-points-to-origin) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/MohitNetrakar96/justCode/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/MohitNetrakar96/justCode/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/MohitNetrakar96/justCode/tree/master/0455-assign-cookies) |
 ## Recursion
 |  |
 | ------- |
