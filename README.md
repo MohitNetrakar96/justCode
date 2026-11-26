@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MohitNetrakar96/justCode/tree/master/0202-happy-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MohitNetrakar96/justCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/MohitNetrakar96/justCode/tree/master/0973-k-closest-points-to-origin) |
+| [3360-stone-removal-game](https://github.com/MohitNetrakar96/justCode/tree/master/3360-stone-removal-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -272,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/MohitNetrakar96/justCode/tree/master/0973-k-closest-points-to-origin) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/MohitNetrakar96/justCode/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
